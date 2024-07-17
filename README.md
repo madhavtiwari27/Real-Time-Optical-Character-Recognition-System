@@ -10,3 +10,14 @@ This project was developed during a six-week summer internship at GAIL (India) L
 - Real-time OCR processing
 - Image preprocessing (noise reduction, thresholding, edge detection)
 - Integration of machine learning models to enhance OCR accuracy
+
+
+## Technologies Used
+- Tesseract
+- OpenCV
+- Python
+
+
+## Prerequisites 
+- **Tesseract installed:**
+  Install tesseract from [Tesseract at UB Mannheim](https://github.com/UB-Mannheim/tesseract/wiki)
