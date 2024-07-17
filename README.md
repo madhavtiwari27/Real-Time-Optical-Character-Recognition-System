@@ -38,7 +38,7 @@ This project was developed during a six-week summer internship at GAIL (India) L
 
 To run the OCR system (via command line), use the following command :
 
-_python Main.py -t "path to tesseract executable file"_
+> _python Main.py -t "path to tesseract executable file"_
 
 Replace "path to tesseract executable file" with the actual path to your Tesseract executable.
 
