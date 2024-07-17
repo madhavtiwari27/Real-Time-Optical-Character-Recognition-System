@@ -21,4 +21,15 @@ This project was developed during a six-week summer internship at GAIL (India) L
 ## Prerequisites 
 - **Tesseract installed:**
   
-  Install tesseract from [Tesseract at UB Mannheim](https://github.com/UB-Mannheim/tesseract/wiki)
+  Install tesseract from [Tesseract at UB Mannheim](https://github.com/UB-Mannheim/tesseract/wiki).
+  Install Pytesseract using pip on command line.
+
+- **OpenCV installed:**
+  
+  Install OpenCV using pip on command line.
+
+- **NumPy installed:**
+
+  Install NumPy using pip on command line.
+
+
