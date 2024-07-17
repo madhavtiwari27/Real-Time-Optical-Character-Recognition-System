@@ -20,4 +20,5 @@ This project was developed during a six-week summer internship at GAIL (India) L
 
 ## Prerequisites 
 - **Tesseract installed:**
+  
   Install tesseract from [Tesseract at UB Mannheim](https://github.com/UB-Mannheim/tesseract/wiki)
