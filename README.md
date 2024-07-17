@@ -4,3 +4,9 @@ This project involves the development of a real-time Optical Character Recogniti
 ## Overview
 
 This project was developed during a six-week summer internship at GAIL (India) Ltd. The primary objective was to create a robust OCR system that can preprocess images, reduce noise, and accurately convert them into machine-readable text.
+
+
+## Features
+- Real-time OCR processing
+- Image preprocessing (noise reduction, thresholding, edge detection)
+- Integration of machine learning models to enhance OCR accuracy
