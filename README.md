@@ -34,3 +34,6 @@ This project was developed during a six-week summer internship at GAIL (India) L
   Install NumPy using pip on command line.
 
 
+## Usage 
+
+To run the OCR system (via command line), use the following command : _python Main.py -t "path to tesseract executable file"_
