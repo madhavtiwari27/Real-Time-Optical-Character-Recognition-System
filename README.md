@@ -24,15 +24,15 @@ This project was developed during a six-week summer internship at GAIL (India) L
   
   Install tesseract from [Tesseract at UB Mannheim](https://github.com/UB-Mannheim/tesseract/wiki).
   
-  Install Pytesseract using pip on command line.
+  > pip install pytesseract
 
 - **OpenCV installed:**
   
-  Install OpenCV using pip on command line.
+  > pip install opencv
 
 - **NumPy installed:**
 
-  Install NumPy using pip on command line.
+  > pip install numpy
 
 
 ## Usage 
